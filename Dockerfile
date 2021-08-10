@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER jaspeen
+MAINTAINER wyran95
 
 ADD assets /assets
 
